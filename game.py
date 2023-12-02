@@ -1,4 +1,3 @@
-#123
 def input_coord():
     index_x = int(input("Введите х координату: "))
     index_y = int(input("Введите y координату: "))
